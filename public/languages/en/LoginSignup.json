@@ -1,0 +1,26 @@
+{
+    "heading-1": "Log In",
+    "accounts-1": "Get access to your account",
+    "google-login": "Login with Google",
+    "divider-1": "or",
+    "username-1": "Username / Email",
+    "password-1": "Password",
+    "remember-1": "Remember Me",
+    "forgot-text-1": "Forgot your password?",
+    "lognin-button-1": "Log In",
+    "account-info-1": "Don't have an account?",
+    "signup-button-1": "Sign Up",
+
+    "heading-2": "Sign Up",
+    "accounts-2": "Use your email for registration",
+    "google-login-2": "Login with Google",
+    "divider-2": "or",
+    "username-2": "Username",
+    "email-2": "Email",
+    "password-2": "Password",
+    "confirm-pass-2": "Confirm Password",
+    "terms-2": "I agree to terms & conditions of service & privacy policy.",
+    "login-button-2": "Log In",
+    "account-info-2": "Don't have an account?",
+    "signup-button-2": "Sign Up"
+}  

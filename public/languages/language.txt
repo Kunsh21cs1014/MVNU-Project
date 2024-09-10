@@ -1,0 +1,37 @@
+"top-heading": "MVN University - Igniting Your Minds",
+
+    "heading-2": "Create Account",
+    "accounts-2": "or use your email for registration",
+    "terms-1": "I agree to receive marketing emails & updates.",
+    "terms-2": "I agree to terms & conditions of service & privacy policy.",
+    "button-2": "Sign Up",
+
+    "overlay-heading-1": "Welcome Back !",
+    "overlay-text-1": "Hello Student, Please log in to access your university account.",
+    "overlay-button-1": "Sign In",
+
+    "overlay-heading-2.1": "Welcome to the",
+    "overlay-heading-2.2": "MVN University !",
+    "overlay-text-2": "Hello Future Student, Register to create your university account and start your journey with us.",
+    "overlay-button-2": "Sign Up"
+
+    "top-heading": "एमवीएन विश्वविद्यालय - आपकी सोच को प्रज्वलित करना",
+    "heading-1": "साइन इन करें",
+    "accounts-1": "या अपने खाते का उपयोग करें",
+    "forgot-text-1": "पासवर्ड भूल गए?",
+    "button-1": "साइन इन करें",
+
+    "heading-2": "खाता बनाएं",
+    "accounts-2": "या पंजीकरण के लिए अपना ईमेल उपयोग करें",
+    "terms-1": "मैं विपणन ईमेल और अपडेट प्राप्त करने के लिए सहमत हूँ।",
+    "terms-2": "मैं सेवा की शर्तों और गोपनीयता नीति के साथ सहमत हूँ।",
+    "button-2": "साइन अप करें",
+
+    "overlay-heading-1": "स्वागत है !",
+    "overlay-text-1": "नमस्ते छात्र, कृपया अपने विश्वविद्यालय खाते तक पहुँचने के लिए लॉग इन करें।",
+    "overlay-button-1": "साइन इन करें",
+
+    "overlay-heading-2.1": "स्वागत है",
+    "overlay-heading-2.2": "एमवीएन विश्वविद्यालय में !",
+    "overlay-text-2": "नमस्ते भविष्य के छात्र, कृपया अपना खाता बनाने और हमारे साथ अपनी यात्रा शुरू करने के लिए पंजीकरण करें।",
+    "overlay-button-2": "साइन अप करें"
